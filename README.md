@@ -33,3 +33,9 @@ No live payment provider, PCI handling, refunds, real messaging, production cred
 
 ## Client mapping
 Idempotency prevents duplicate orders, the state machine blocks stale downgrades, the review queue makes failures visible, correlation IDs support investigation, and HMAC blocks unauthenticated event submission.
+
+## Visual demo
+
+![Payment webhook demo](assets/demo-screenshot.png)
+
+[Open the short GIF demo](assets/demo.gif)
