@@ -1,0 +1,8 @@
+[project]
+name = "payment-webhook-repair-lab"
+version = "0.1.0"
+description = "Local synthetic payment webhook reliability lab"
+requires-python = ">=3.10"
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

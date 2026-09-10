@@ -1,0 +1,1 @@
+{"id":"evt_upstream_5xx","type":"payment.paid","order_id":"ord_001","amount":1500,"currency":"USD","occurred_at":"2026-09-10T09:00:00Z"}
