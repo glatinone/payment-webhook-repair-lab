@@ -1,4 +1,4 @@
-# Payment Webhook Repair Lab
+﻿# Payment Webhook Repair Lab
 
 ## Business story
 A synthetic payment endpoint demonstrates how duplicate delivery, invalid authentication, malformed data, provider failures, and partial storage failures can create payment and support risk.
@@ -39,3 +39,7 @@ Idempotency prevents duplicate orders, the state machine blocks stale downgrades
 ![Payment webhook demo](assets/demo-screenshot.png)
 
 [Open the short GIF demo](assets/demo.gif)
+
+---
+
+Maintained by Kiell Tampubolon. More selected work at [kielltampubolon.id](https://www.kielltampubolon.id/).
