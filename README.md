@@ -1,4 +1,6 @@
-﻿# Payment Webhook Repair Lab
+# Payment Webhook Repair Lab
+
+![tests](https://github.com/glatinone/payment-webhook-repair-lab/actions/workflows/tests.yml/badge.svg)
 
 ## Business story
 A synthetic payment endpoint demonstrates how duplicate delivery, invalid authentication, malformed data, provider failures, and partial storage failures can create payment and support risk.
